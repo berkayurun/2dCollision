@@ -1,3 +1,5 @@
+package first;
+
 public class Velocity {
     private double X;
     private double Y;

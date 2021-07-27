@@ -1,3 +1,5 @@
+package first;
+
 public class Collision {
     private Item firstItem;
     private Item secItem;
